@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:MvxTabbedPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MobileTabTest.Core.Core.Pages"
+    x:Class="MobileTabTest.Core.Core.Pages.MainPage"
+    xmlns:viewModels="clr-namespace:MobileTabTest.Core.Core.ViewModels;assembly=MobileTabTest.Core.Core"
+    xmlns:d="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms">
+	<ContentPage.Content>
+
+	</ContentPage.Content>
+</d:MvxTabbedPage>
