@@ -11,6 +11,6 @@
             <Label Text="Welcome to Xamarin.Forms! Tab 2"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-        </StackLayout> T
+        </StackLayout> 
     </ContentPage.Content>
 </views:MvxContentPage>

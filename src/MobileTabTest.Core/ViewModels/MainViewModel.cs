@@ -4,10 +4,12 @@ using MvvmCross.Core.Navigation;
 using System;
 using MobileTabTest.Core.ViewModels;
 using System.Collections.Generic;
+using MvvmCross.Forms.Views.Attributes;
 using MvvmCross.Platform.Platform;
 
 namespace MobileTabTest.Core.Core.ViewModels
 {
+    [MvxTabbedPagePresentation(TabbedPosition.Root)]
     public class MainViewModel : MvxViewModel
     {
         private readonly IMvxNavigationService _navigationService;

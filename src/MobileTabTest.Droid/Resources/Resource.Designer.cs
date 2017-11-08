@@ -5185,14 +5185,14 @@ namespace MobileTabTest.Droid
 			// aapt resource value: 0x7f090062
 			public const int list_item = 2131296354;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int masked = 2131296457;
+			// aapt resource value: 0x7f0900cb
+			public const int masked = 2131296459;
 			
 			// aapt resource value: 0x7f0900ba
 			public const int media_actions = 2131296442;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int message = 2131296455;
+			// aapt resource value: 0x7f0900c9
+			public const int message = 2131296457;
 			
 			// aapt resource value: 0x7f090032
 			public const int middle = 2131296306;
@@ -5401,6 +5401,9 @@ namespace MobileTabTest.Droid
 			// aapt resource value: 0x7f090026
 			public const int showTitle = 2131296294;
 			
+			// aapt resource value: 0x7f0900c7
+			public const int sliding_tabs = 2131296455;
+			
 			// aapt resource value: 0x7f09008c
 			public const int smallLabel = 2131296396;
 			
@@ -5476,6 +5479,9 @@ namespace MobileTabTest.Droid
 			// aapt resource value: 0x7f090070
 			public const int title_template = 2131296368;
 			
+			// aapt resource value: 0x7f0900c8
+			public const int toolbar = 2131296456;
+			
 			// aapt resource value: 0x7f09003f
 			public const int top = 2131296319;
 			
@@ -5512,8 +5518,8 @@ namespace MobileTabTest.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int visible = 2131296456;
+			// aapt resource value: 0x7f0900ca
+			public const int visible = 2131296458;
 			
 			// aapt resource value: 0x7f0900ac
 			public const int volume_item_container = 2131296428;
@@ -5813,7 +5819,13 @@ namespace MobileTabTest.Droid
 			public const int support_simple_spinner_dropdown_item = 2130903107;
 			
 			// aapt resource value: 0x7f030044
-			public const int tooltip = 2130903108;
+			public const int Tabbar = 2130903108;
+			
+			// aapt resource value: 0x7f030045
+			public const int Toolbar = 2130903109;
+			
+			// aapt resource value: 0x7f030046
+			public const int tooltip = 2130903110;
 			
 			static Layout()
 			{

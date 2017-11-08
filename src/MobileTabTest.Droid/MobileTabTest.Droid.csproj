@@ -55,41 +55,41 @@
       <HintPath>..\packages\Xamarin.Forms.2.4.0.38779\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Android.Export" />
-    <Reference Include="MvvmCross.Binding, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.4.0\lib\MonoAndroid\MvvmCross.Binding.dll</HintPath>
+    <Reference Include="MvvmCross.Binding, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.4.2\lib\MonoAndroid\MvvmCross.Binding.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Binding.Droid, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.4.0\lib\MonoAndroid\MvvmCross.Binding.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Binding.Droid, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.4.2\lib\MonoAndroid\MvvmCross.Binding.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Core, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Core.5.4.0\lib\MonoAndroid\MvvmCross.Core.dll</HintPath>
+    <Reference Include="MvvmCross.Core, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Core.5.4.2\lib\MonoAndroid\MvvmCross.Core.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Droid, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Core.5.4.0\lib\MonoAndroid\MvvmCross.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Droid, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Core.5.4.2\lib\MonoAndroid\MvvmCross.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Droid.Support.Core.UI, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Droid.Support.Core.UI.5.4.0\lib\MonoAndroid70\MvvmCross.Droid.Support.Core.UI.dll</HintPath>
+    <Reference Include="MvvmCross.Droid.Support.Core.UI, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Droid.Support.Core.UI.5.4.2\lib\MonoAndroid70\MvvmCross.Droid.Support.Core.UI.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Droid.Support.Fragment, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Droid.Support.Fragment.5.4.0\lib\MonoAndroid70\MvvmCross.Droid.Support.Fragment.dll</HintPath>
+    <Reference Include="MvvmCross.Droid.Support.Fragment, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Droid.Support.Fragment.5.4.2\lib\MonoAndroid70\MvvmCross.Droid.Support.Fragment.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Droid.Support.V7.AppCompat, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Droid.Support.V7.AppCompat.5.4.0\lib\MonoAndroid70\MvvmCross.Droid.Support.V7.AppCompat.dll</HintPath>
+    <Reference Include="MvvmCross.Droid.Support.V7.AppCompat, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Droid.Support.V7.AppCompat.5.4.2\lib\MonoAndroid70\MvvmCross.Droid.Support.V7.AppCompat.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Forms, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Forms.5.4.0\lib\MonoAndroid70\MvvmCross.Forms.dll</HintPath>
+    <Reference Include="MvvmCross.Forms, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Forms.5.4.2\lib\MonoAndroid70\MvvmCross.Forms.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Forms.Droid, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Forms.5.4.0\lib\MonoAndroid70\MvvmCross.Forms.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Forms.Droid, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Forms.5.4.2\lib\MonoAndroid70\MvvmCross.Forms.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Localization, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.4.0\lib\MonoAndroid\MvvmCross.Localization.dll</HintPath>
+    <Reference Include="MvvmCross.Localization, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.4.2\lib\MonoAndroid\MvvmCross.Localization.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Platform, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Platform.5.4.0\lib\MonoAndroid\MvvmCross.Platform.dll</HintPath>
+    <Reference Include="MvvmCross.Platform, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Platform.5.4.2\lib\MonoAndroid\MvvmCross.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Platform.Droid, Version=5.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Platform.5.4.0\lib\MonoAndroid\MvvmCross.Platform.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Platform.Droid, Version=5.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Platform.5.4.2\lib\MonoAndroid\MvvmCross.Platform.Droid.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
@@ -168,6 +168,7 @@
   <ItemGroup>
     <Compile Include="DebugTrace.cs" />
     <Compile Include="FormsActivity.cs" />
+    <Compile Include="LinkerPleaseInclude.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Setup.cs" />
@@ -180,6 +181,8 @@
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\SplashScreen.axml" />
+    <AndroidResource Include="Resources\layout\Tabbar.axml" />
+    <AndroidResource Include="Resources\layout\Toolbar.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">
@@ -195,12 +198,6 @@
     <Folder Include="Resources\mipmap-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\values\SplashStyle.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\splash.png" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\MobileTabTest.Core\MobileTabTest.Core.csproj">
       <Project>{84aae98a-1bf1-4e9c-a163-374c7f7790aa}</Project>
       <Name>MobileTabTest.Core</Name>
@@ -214,6 +211,12 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\styles.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\SplashStyle.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\splash.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
